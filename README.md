@@ -40,7 +40,7 @@
 #### отображение рецептов
 
 <a>
-<img src="https://github.com/977605/spoonacular_api/blob/main/assets/images/recipies_spoon_api.jpg" width="200" height="255"  alt="Recipes"/>
+<img src="https://github.com/977605/spoonacular_api/blob/main/assets/images/recipies_spoon_api.jpg" width="200" height="285"  alt="Recipes"/>
 </a>
 
 
