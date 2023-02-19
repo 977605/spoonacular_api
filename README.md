@@ -14,7 +14,7 @@
 
 ### Stack
 
-#### Android Studio, Flutter, Dart, Gradle, Github, MVVM
+#### Android Studio, Flutter, Dart, Gradle, Github, MVVM, MobX
 
 <a href="https://www.jetbrains.com/idea/">
     <img src="https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png" width="85" height="40"  alt="Android Studio"/>
